@@ -99,4 +99,4 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export EDITOR='subl -w'
-export PATH="/Users/ben/bin:/usr/local/sbin:$PATH"
+export PATH="/Users/$USER/bin:/usr/local/sbin:$PATH"
